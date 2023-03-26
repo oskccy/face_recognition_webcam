@@ -13,7 +13,7 @@ for img in os.listdir(path):
     images.append(curImg)
     classNames.append(os.path.splitext(img)[0])
 
-print('Test 2: fucking array additions')
+print('Test 2: array additions')
 
 def findEncodings(images):
     encodeList = []
