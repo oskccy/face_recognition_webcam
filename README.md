@@ -4,8 +4,8 @@ This repository contains a Python script for performing facial recognition using
 
 ## The code is divided into two files:
 
-script.py: contains the main script for facial recognition using the webcam.
-basic_test.py: contains a basic test of the face_recognition library with two images.
+attendance.py: contains the main script for facial recognition using the webcam.
+basic.py: contains a basic test of the face_recognition library with two images.
 
 ## Dependencies:
 - Python 3.6+
@@ -20,10 +20,10 @@ basic_test.py: contains a basic test of the face_recognition library with two im
 
 ## Usage:
 
-To run the main script, navigate to the project directory and run the following command: python script.py.
+To run the main script, navigate to the project directory and run the following command: python attendance.py.
 The script will capture frames from the webcam and display them in a window. Any detected faces will be identified with a name label, if it matches any of the known faces in the "imagesAttendance" directory.
 
-To test the face recognition functionality using two images, run python basic_test.py. The script will compare the faces in the two images and print out whether they match or not, along with a confidence score.
+To test the face recognition functionality using two images, run python basic.py. The script will compare the faces in the two images and print out whether they match or not, along with a confidence score.
 Contributing
 If you would like to contribute to this project, please submit a pull request with your changes. I welcome all contributions, including bug fixes and feature enhancements.
 
