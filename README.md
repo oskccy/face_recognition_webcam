@@ -15,7 +15,7 @@ basic.py: contains a basic test of the face_recognition library with two images.
 
 ## Installation:
 
-1. Clone this repository: git clone https://github.com/oskccy/facial-recognition.git.
+1. Clone this repository: git clone https://github.com/oskccy/face_recognition_project
 2. Install the required dependencies using pip: pip install opencv-python numpy face_recognition.
 
 ## Usage:
