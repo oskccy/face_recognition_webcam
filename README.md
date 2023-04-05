@@ -12,6 +12,7 @@ This repository contains a Python script for performing facial recognition using
 ## Dependencies:
 - Python 3.6+
 - OpenCV 4.0+
+- CMake 3.2+
 - Numpy 1.16+
 - face_recognition 1.3+
 
