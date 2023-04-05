@@ -1,5 +1,7 @@
 # Facial Recognition Project 
 
+By: Oscar Spencer
+
 This repository contains a Python script for performing facial recognition using OpenCV and face_recognition libraries. The script detects faces in a live video stream from a webcam or in images, encodes the faces, and compares them against a database of known faces to identify them.
 
 ## The code is divided into two files:
