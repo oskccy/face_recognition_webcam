@@ -4,8 +4,8 @@ This repository contains a Python script for performing facial recognition using
 
 ## The code is divided into two files:
 
-attendance.py: contains the main script for facial recognition using the webcam.
-basic.py: contains a basic test of the face_recognition library with two images.
+- attendance.py: contains the main script for facial recognition using the webcam.
+- basic.py: contains a basic test of the face_recognition library with two images.
 
 ## Dependencies:
 - Python 3.6+
