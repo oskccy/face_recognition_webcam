@@ -16,7 +16,7 @@ This repository contains a Python script for performing facial recognition using
 
 ## Installation:
 
-1. Clone this repository: git clone https://github.com/oskccy/face_recognition_project
+1. Clone this repository: git clone https://github.com/oskccy/face_recognition_webcam
 2. Install the required dependencies using pip: pip install cmake opencv-python numpy face_recognition.
 
 ## Usage:
