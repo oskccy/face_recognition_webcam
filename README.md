@@ -16,8 +16,13 @@ This repository contains a Python script for performing facial recognition using
 
 ## Installation:
 
-1. Clone this repository: git clone https://github.com/oskccy/face_recognition_webcam
-2. Install the required dependencies using pip: pip install cmake opencv-python numpy face_recognition.
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/oskccy/face_recognition_webcam
+   
+3. Install the required dependencies using pip:
+   ```bash
+   pip install cmake opencv-python numpy face_recognition.
 
 ## Usage:
 
@@ -31,7 +36,3 @@ If you would like to contribute to this project, please submit a pull request wi
 ## License:
 
 - This project is licensed under the MIT License. See the LICENSE file for more details.
-
-
-
-
