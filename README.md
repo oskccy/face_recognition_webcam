@@ -22,7 +22,7 @@ This repository contains a Python script for performing facial recognition using
    
 3. Install the required dependencies using pip:
    ```bash
-   pip install cmake opencv-python numpy face_recognition.
+   pip install cmake opencv-python numpy face_recognition
 
 ## Usage:
 
