@@ -28,13 +28,13 @@ This repository contains a Python script for performing facial recognition using
 
 1. To run the main script, navigate to the project directory and run the following command: 
    ```bash
-   python attendance.py.
+   python attendance.py
 
 (The script will capture frames from the webcam and display them in a window. Any detected faces will be identified with a name label, if it matches any of the known faces in the "imagesAttendance" directory.)
 
 2. To test the face recognition functionality using two images, run:
    ```bash
-   python basic.py.
+   python basic.py
 
 The script will compare the faces in the two images and print out whether they match or not, along with a confidence score.
 
